@@ -12,3 +12,7 @@ The training consists of 5 days. For the first 3 days, technical skills are not 
  3. demonstrate the use of Open Data to augment, scale and increase relevance of interactive community mapping initiatives in a developing context
 
  4. Evaluate the potential for this approach to become a sustainable initiative that can support community tourism and provide economic lift to communities; enhance tourism product information and diversity of choices; provide innovation opportunities for software developers and other service entrepreneurs.
+
+## Credits
+
+This book has been made possible with information gathered from wikipedia and openstreetmap.
