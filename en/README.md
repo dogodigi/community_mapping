@@ -2,7 +2,7 @@
 
 This is the material for the train the trainer on community mapping. The goal of this course is to train students and make them able to train others in order to enlarge the engagement in community mapping.
 
-The training consists of 5 days. The first 3 days do not particularily require technical skills. For the last 2 days, basic of html, css and javascript is required.
+The training consists of 5 days. For the first 3 days, technical skills are not needed. For the last 2 days attendees need basic knowledge of html, css and javascript.
 
 ## Goals
  1. production of media-rich community map artifacts, through the effective engagement, capacity-building & empowerment of local community participants
