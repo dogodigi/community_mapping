@@ -36,9 +36,13 @@ Attendees will learn to **think in models**. They gather insight on what spatial
  When we have a point in (latitude, longitude) that represents an explosion and we have a lot of points that represent people, what can we do?
 
  #### 1.2.2. Lines
- Lines, we all know what they are, are in geometry (among others) a collection of points and that is often also how they are stored in the database. So lines are constructed out of points. Lines can also be connected. From lines we can calculate length. Lines also form the basics for navigation.
+ Lines, we all know what they are. In mathematics, they are often defined as a function (vectors).
+ 
+But in databases, they are most often a collection of points and that is often also how they are stored in the database. So lines are constructed out of points. Lines can also be connected. From lines we can calculate length. Lines also form the basics for navigation.
 
  In OpenStreetMap a line is called a _way_ [http://wiki.openstreetmap.org/wiki/Way]
+ 
+ ![](Linear functions.svg)
 
  ##### Exercise 7
  Why are lines used for navigation and why is that better then using points?
