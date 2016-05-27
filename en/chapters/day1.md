@@ -27,7 +27,7 @@ Attendees will learn to **think in models**. They gather insight on what spatial
 
  A point tells you something about location, but hardly about shape. So when we model a building as a point and want to use it to calculate a paint job, it will not do. Points alone hardly tell us anything. It is __relative position__ that makes it shine!
  
-![Points in 2 dimensional space](ACP_3.svg)
+![Points in 2 dimensional space](./assets/ACP_3.svg)
 
  ##### Exercise 5
  When we have a point in (latitude, longitude) that represents a restaurant and a point that represents our current position, what can we do with that?
@@ -37,12 +37,20 @@ Attendees will learn to **think in models**. They gather insight on what spatial
 
  #### 1.2.2. Lines
  Lines, we all know what they are. In mathematics, they are often defined as a function (vectors).
- 
-But in databases, they are most often a collection of points and that is often also how they are stored in the database. So lines are constructed out of points. Lines can also be connected. From lines we can calculate length. Lines also form the basics for navigation.
+
+![Linear functions](assets/Linear functions.svg)
+
+But in databases, they are most often a collection of points and that is often also how they are stored in the database. 
+
+![Linear functions](assets/Linear functions.svg)
+
+The lines we need are constructed out of points. Lines can also be connected. From lines we can calculate length. Lines also form the basics for navigation.
+
+
 
  In OpenStreetMap a line is called a _way_ [http://wiki.openstreetmap.org/wiki/Way]
  
- ![](Linear functions.svg)
+ 
 
  ##### Exercise 7
  Why are lines used for navigation and why is that better then using points?
