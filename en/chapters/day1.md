@@ -49,6 +49,7 @@ But in databases, they are most often a collection of points and that is often a
 
  ##### Exercise 8
  We have a line representing a planned road and a line representing a river. These lines cross. What does this inform us about?
+ 
 
  #### 1.2.2. Polygons
  As you may have noticed by now, primitives are constructed from other primitives. Lines are constructed from points. A polygon is a closed shape. It is constructed from... correct!
