@@ -26,6 +26,8 @@ Attendees will learn to **think in models**. They gather insight on what spatial
  In OpenStreetMap a point is called a _node_ [http://wiki.openstreetmap.org/wiki/Node]
 
  A point tells you something about location, but hardly about shape. So when we model a building as a point and want to use it to calculate a paint job, it will not do. Points alone hardly tell us anything. It is __relative position__ that makes it shine!
+ 
+![Points in 2 dimensional space](ACP_3.svg)
 
  ##### Exercise 5
  When we have a point in (latitude, longitude) that represents a restaurant and a point that represents our current position, what can we do with that?
