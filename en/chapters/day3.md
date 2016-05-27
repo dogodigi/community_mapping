@@ -1,3 +1,5 @@
+# Day 3
+
 - Set up an Instagram account
 - Upload media
 

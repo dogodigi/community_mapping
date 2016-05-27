@@ -1,4 +1,4 @@
-## 1. Day 1
+# Day 1
 
  On day 1, attendees will learn to "think in models" and gather insight on what geodata is, how it is collected and how it "connects" with regular data. At the end of the day, they will have good insight on how to model real-world appearances.
 
