@@ -2,7 +2,7 @@
 
 In this part of the course attendees will learn about
 
-* [The basics of geodata](en/day1.md)
+* [The basics of geodata](en/chapters/geodata_basics.md)
 * [Community mapping](en/community_mapping.md)
 * Picking time and location for the field day
 
