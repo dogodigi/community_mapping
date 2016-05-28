@@ -65,9 +65,9 @@ We have a line representing a planned road and a line representing a river. Thes
  
 
 ### Polygons
-As you may have noticed by now, primitives are constructed from other primitives. Lines are constructed from points. A polygon is a closed shape. It is constructed from... correct!
+As you may have noticed by now, primitives are constructed from other primitives. Lines are constructed from points. A polygon is a closed shape. It is constructed from lines. The fact that the first point is exactly the same as the last one tells the computer that it is __closed__. So a polygon is a collection of lines, where the sequence is important and the first point is __exactly__ the same as the last one.
 
-In Openstreetmap a polygon is a _way_, but this time the first and last point on the way need to be connected!
+In Openstreetmap a polygon is a called a _way_, but this time the first and last point on the way need to be connected!
 
 | Type |  |  | Openstreetmap |
 | -- | -- | -- | -- |
