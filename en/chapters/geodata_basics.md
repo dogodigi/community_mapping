@@ -182,7 +182,7 @@ And eventually, ended up in our smartphones.
 All you need to gather coordinates is a smartphone. Of course there are cases where the accuracy will not do, still requiring more advanced equipment or techniques. But a smartphone that records your trip as you walk or drive is a perfect start.
 
 
-### Let's start mapping
+### Create a map
 
 We now have the knowledge required to start mapping. 
  - We know how to gather coordinates to model objects we observe
