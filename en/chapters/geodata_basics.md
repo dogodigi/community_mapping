@@ -150,6 +150,37 @@ Combining coordinates that are registered in standard (WGS84) coordinates with a
 
 [Surveying](https://en.wikipedia.org/wiki/Surveying) is the technique, profession, and science of determining the terrestrial or three-dimensional position of points and the distances and angles between them. Surveying is all about gathering coordinates.
 
+Surveying has always been of importance and went hand in hand with land ownership. Knowing the exact dimensions of a plot of land, means tax income. A good land registration prevents disputes. Surveyors have been with us since the ages of the Egyptians.
+
+![](http://www.stalbertgazette.com/apps/pbcsi.dll/bilde?Site=GR&Date=20120623&Category=SAG0801&ArtNo=306239982&Ref=EP&NewTbl=1&item=2)
+
+At first surveyors used ropes. Mainly to determine distances. Using mathematics to combine distances, they could calculate a surface area.
+
+![](http://holmansnv.com/wp-content/uploads/2012/03/groma.jpg)
+
+They created fantastic instruments.
+
+![](https://upload.wikimedia.org/wikipedia/commons/b/b2/Bundesarchiv_Bild_183-S12054%2C_Vermessungstruppe_bei_Fernaufnahmen.jpg)
+
+And people found employment in surveying.
+
+![](https://upload.wikimedia.org/wikipedia/commons/f/f3/All_female_survey_crew_-_Minidoka_Project,_Idaho_1918.jpg)
+
+Equipment modernized.
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/1a/Tide_station_leveling.jpg)
+
+Evolved into GPS,
+
+![](https://upload.wikimedia.org/wikipedia/commons/8/80/Field-Map_birdie.jpg)
+
+And eventually, ended up in our smartphones.
+
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/0a/GPS_on_smartphone_cycling.JPG)
+
+All you need to gather coordinates is a smartphone. Of course there are cases where the accuracy will not do, still requiring more advanced equipment or techniques. But a smartphone that records your trip as you walk or drive is a perfect start.
+
 
 ### Let's start mapping
 
@@ -164,7 +195,9 @@ Below you find an image of random coordinates. Print the image and let the atten
 ![](http://i.stack.imgur.com/2FdrL.png)
 
 
+Recorded coordinates are not all we need. Context is important. We can provide context by taking pictures, memorizing and taking notes.
 
+You are now ready to go on a field day. Make sure you are [prepared](preparation_fieldday.md). 
 
 
 
