@@ -197,7 +197,7 @@ Below you find an image of random coordinates. Print the image and let the atten
 
 Recorded coordinates are not all we need. Context is important. We can provide context by taking pictures, memorizing and taking notes.
 
-You are now ready to go on a field day. Make sure you are [prepared](preparation_fieldday.md). 
+You are now ready to go on a field day. Make sure you are [prepared](../preparation_fieldday.md). 
 
 
 
