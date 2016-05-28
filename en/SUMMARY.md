@@ -4,8 +4,8 @@
 
 ## Day 1
   * [The basics of geodata](chapters/geodata_basics.md)
-  * [OpenStreetMap](chapters/openstreetmap_basics.md)
-  * [Preparing a field day](en/chapters/field_day.md)
+  * [OpenStreetMap](chapters/openstreetmap.md)
+  * [Preparing a field day](chapters/field_day.md)
 
 ## Day 2
 * Field day
