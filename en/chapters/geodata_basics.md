@@ -144,6 +144,17 @@ It is mathematically impossible to project a sphere on a plane without making co
 
 There is a lot of computer software available to go from WGS84 coordinates to any possible map projection.
 
+Combining coordinates that are registered in standard (WGS84) coordinates with a map projection allows us to create maps that can be displayed on a plane (a piece of paper or a computer screen)
+
+### Gathering coordinates
+
+We almost have the knowledge required to start mapping. 
+ - Gather coordinates to model objects we observe
+ - Draw the coordinates
+ - Connect lines, add width, color, text and texture to create a map
+
+[Surveying](https://en.wikipedia.org/wiki/Surveying) is the technique, profession, and science of determining the terrestrial or three-dimensional position of points and the distances and angles between them. Surveying is all about gathering coordinates.
+
 
 
 
