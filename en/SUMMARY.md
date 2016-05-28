@@ -2,10 +2,10 @@
 
 * [Introduction](README.md)
 * Mapping Basics
-   * [Schedule](day1.md)
-   * [The basics of geodata](chapters/day1.md)
+   * [Schedule](geodata_basics_schedule.md)
+   * [The basics of geodata](chapters/geodata_basics.md)
 * Field day
-   * [Schedule](day2.md)
+   * [Preparation](day2.md)
 * Processing
    * [Schedule](day3.md)
 * Creating Map applications
