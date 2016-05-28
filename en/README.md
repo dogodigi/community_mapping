@@ -1,4 +1,4 @@
-# Introduction
+# About this book
 
 This is the material for the train the trainer on community mapping. The goal of this course is to train students and make them able to train others in order to enlarge the engagement in community mapping.
 
@@ -15,4 +15,15 @@ The training consists of 5 days. For the first 3 days, technical skills are not 
 
 ## Credits
 
+This book was commissioned by the UWI.
+
 This book has been made possible with information gathered from wikipedia and openstreetmap.
+
+
+#### Wikipedia
+
+[GeoJSON](https://en.wikipedia.org/wiki/GeoJSON)
+
+## License
+
+All content in this book is available under the Creative Commons Share Alike (CC-BY-SA) license.
