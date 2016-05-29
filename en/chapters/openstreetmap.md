@@ -1,7 +1,11 @@
 # OpenStreetMap
 
-## Summary
+## Objective
 Attendees will learn about computer systems for geodata and OpenStreetMap in particular. After this lecture they will know what OpenStreetMap is and the possibilities it offers.
+
+## Materials
+
+A computer, tablet or smartphone with internet.
 
 ----
 
@@ -74,6 +78,6 @@ We all can. Even if we want to make money with it. And it comes at no initial co
 > ##### exercise 18
 > Visit the OpenStreetMap website. Do you like the map? Can you discover how to join? Can you find where you can read documentation about how to use OpenStreetMap?
 
-
+## Follow-up
 You are now ready to go on a field day. Make sure you are [prepared](prepare_fieldday.md). 
 
