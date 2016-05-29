@@ -26,6 +26,7 @@ When programming became a profession, computer companies started creating comput
 - Visualize geodata
 
 
+For a long time this has been the domain of a large companies.
 
 
 You are now ready to go on a field day. Make sure you are [prepared](../preparation_fieldday.md). 
