@@ -15,15 +15,10 @@ The training consists of 5 days. For the first 3 days, technical skills are not 
 
 ## Credits
 
-This book was commissioned by the[Caribbean Open Institute]((http://caribbeanopeninstitute.org/)) in conjunction with [Mona school of Business and Management](http://www.mona.uwi.edu/msbm/) and is part of the research project  _Harnessing Open Data to Achieve Development Results in the Caribbean_.
+This book was commissioned by the [Caribbean Open Institute]((http://caribbeanopeninstitute.org/) in conjunction with [Mona school of Business and Management](http://www.mona.uwi.edu/msbm/) and serves the research project _Harnessing Open Data to Achieve Development Results in the Caribbean_.
 
 This book has been made possible with information gathered from wikipedia and openstreetmap.
 
-
-#### Wikipedia
-
-[GeoJSON](https://en.wikipedia.org/wiki/GeoJSON)
-
 ## License
 
-All content in this book is available under the Creative Commons Share Alike (CC-BY-SA) license.
+All content in this book is available under the Creative Commons Share Alike (CC-BY-SA) license. If you have any remarks or enhancements for this book, please contact the author.
