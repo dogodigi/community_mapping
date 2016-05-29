@@ -58,10 +58,21 @@ Steve Coast started small. At first he rode out on his bicycle with a small GPS 
 ![](http://wiki.openstreetmap.org/w/images/9/90/Active_contributors_month.png)
 ## What is OpenStreetMap?
 
-OpenStreetMap is basically one big database that allows for the storage of geodata. OpenStreetMap consists of open source software that allows people to insert, delete, update and download geodata.
+OpenStreetMap is a database that allows for the storage of geodata. OpenStreetMap consists of open source software that allows people to insert, delete, update and download geodata.
+
+Because you cannot look at a database, OpenStreetMap has a map on the page at [http://www.openstreetmap.org](http://www.openstreetmap.org). It is __not__ the only map. A lot of individuals create their own maps from OpenStreetMap. But we will not cover that for now.
 
 ## Who owns OpenStreetMap?
 OpenStreetMap is governed by the [OpenStreetMap Foundation](https://wiki.osmfoundation.org/wiki/Main_Page) and everyone can become a member and can be voted on to the board. The OpenStreetMap Foundation is registered in the United Kingdom as an international not-for-profit organization.
+
+The Foundation does not _own_ the OpenStreetMap geodata or the software required to run OpenStreetMap. The software is open source. The geodata is owned by the contributors who grant everybody the right to use it under the [Open Data Commons Open Database License(ODbL)](http://opendatacommons.org/licenses/odbl/) and all information about the license is available [online](http://wiki.osmfoundation.org/wiki/License)
+
+## Who can use OpenStreetMap?
+
+We all can. Even if we want to make money with it. And it comes at no initial cost.
+
+> ##### exercise 18
+> Visit the OpenStreetMap website. Do you like the map? Can you discover how to join? Can you find where you can read documentation about how to use OpenStreetMap?
 
 
 You are now ready to go on a field day. Make sure you are [prepared](../preparation_fieldday.md). 
