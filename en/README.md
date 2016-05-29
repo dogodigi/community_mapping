@@ -1,5 +1,7 @@
 # About this book
 
+## Preface
+
 This book was commissioned by the [Caribbean Open Institute]((http://caribbeanopeninstitute.org/) in conjunction with [Mona school of Business and Management](http://www.mona.uwi.edu/msbm/) and serves the research project _Harnessing Open Data to Achieve Development Results in the Caribbean_.
 
 The book can be used as teaching material, preferably for a 5 day program to engage people into community mapping and discover the economic potential of community mapping.
