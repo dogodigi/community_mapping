@@ -19,8 +19,6 @@ Part of this book is targeted at web developers. When developer skills (basic kn
 
 ## Credits
 
-
-
 This book has been made possible with information gathered from wikipedia and openstreetmap.
 
 ## License
