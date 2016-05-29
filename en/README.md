@@ -1,8 +1,12 @@
 # About this book
 
-This is the material for the train the trainer on community mapping. The goal of this course is to train students and make them able to train others in order to enlarge the engagement in community mapping.
+This book was commissioned by the [Caribbean Open Institute]((http://caribbeanopeninstitute.org/) in conjunction with [Mona school of Business and Management](http://www.mona.uwi.edu/msbm/) and serves the research project _Harnessing Open Data to Achieve Development Results in the Caribbean_.
 
-The training consists of 5 days. For the first 3 days, technical skills are not needed. For the last 2 days attendees need basic knowledge of html, css and javascript.
+The book can be used as teaching material, preferably for a 5 day program to engage people into community mapping and discover the economic potential of community mapping.
+
+People can get involved into community mapping without prerequisits. The only technical skills needed are the basic ability to operate a computer or mobile device. 
+
+Part of this book is targeted at web developers. When developer skills (basic knowledge of html, css and javascript) are required, this is clearly stated at the start of the chapter as: "__advanced__ skills required".
 
 ## Goals
  1. production of media-rich community map artifacts, through the effective engagement, capacity-building & empowerment of local community participants
@@ -15,7 +19,7 @@ The training consists of 5 days. For the first 3 days, technical skills are not 
 
 ## Credits
 
-This book was commissioned by the [Caribbean Open Institute]((http://caribbeanopeninstitute.org/) in conjunction with [Mona school of Business and Management](http://www.mona.uwi.edu/msbm/) and serves the research project _Harnessing Open Data to Achieve Development Results in the Caribbean_.
+
 
 This book has been made possible with information gathered from wikipedia and openstreetmap.
 
