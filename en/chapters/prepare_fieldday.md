@@ -23,3 +23,6 @@ Once the area is selected, you create prints from the [fieldpapers](http://www.f
 ### General
 
 Tell the attendees to take pictures!
+
+## Follow-up
+Attendees are ready to go on a field day.
