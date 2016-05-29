@@ -4,7 +4,7 @@
 Attendees will learn to **think in models**. They gather insight on what spatial data is, how it is collected and how it relates to regular data. After this day, they will have good insight on how to model real-world objects as data.
 
 ## Materials and equipment
-None.
+For attendees: None. For the teacher: The slides in the geodata section.
 
 ----
 
