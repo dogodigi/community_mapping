@@ -1,5 +1,11 @@
 # Day 3
 
+## Summary
+Process the fieldwork and upload geodata to OpenStreetMap and video and images to Instagram.
+
+----
+
+
 - Set up an Instagram account
 - Upload media
 
