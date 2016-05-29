@@ -200,6 +200,7 @@ Below you find an image of random coordinates. Print the image and let the atten
 
 Recorded coordinates are not all we need. Context is important. We can provide context by taking pictures, memorizing and taking notes.
 
+## Follow-up
 In the chapter [OpenStreetMap basics](openstreetmap_basics.md) you will learn about OpenStreetMap, the ecosystem that allows us all to map the world digitally.
 
 
