@@ -17,7 +17,7 @@ There are institutes and companies that have had a need for geodata since the fi
 - Military
 - and more
 
-> ##### exercise 14
+> ##### exercise 13
 > Discuss the various institutes and companies. What geodata are they using? How important is it for their operation?
 
 When programming became a profession, computer companies started creating computer systems that can:
