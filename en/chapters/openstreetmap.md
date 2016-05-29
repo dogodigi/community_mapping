@@ -49,7 +49,9 @@ Some countries have specialized agencies that collect, store and visualize geoda
 
 ## Why OpenStreetMap began
 
+In 2004, a young student in the UK named [Steve Coast](https://en.wikipedia.org/wiki/Steve_Coast), found that there was a lack of available map and location data in the UK. However, there was this newly emerging information tool called Wikipedia that was slowly becoming a powerhouse. Based on its model and success, Steve was inspired to create its counterpart with respect to maps.
 
+His eventual aim? To map the entire planet and make the data freely available, without copyright restrictions, for everyone with an internet connection to use in a multitude of ways.
 
 
 
