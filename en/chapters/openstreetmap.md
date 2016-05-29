@@ -53,6 +53,15 @@ In 2004, a young student in the UK named [Steve Coast](https://en.wikipedia.org/
 
 His eventual aim? To map the entire planet and make the data freely available, without copyright restrictions, for everyone with an internet connection to use in a multitude of ways.
 
+Steve Coast started small. At first he rode out on his bicycle with a small GPS device, mapping his own neighborhood. Meanwhile he talked about his ideas with fellow students. Soon they where a small group. They started publishing their results online and decided to create software that made it possible to map in collaboration. When the media noticed what they where doing, the published about it. This attracted enthusiasts from all around the world. Today OpenStreetMap is the only genuinely __free__ source of community created geodata on our planet.
+
+![](http://wiki.openstreetmap.org/w/images/9/90/Active_contributors_month.png)
+## What is OpenStreetMap?
+
+OpenStreetMap is basically one big database that allows for the storage of geodata. OpenStreetMap consists of open source software that allows people to insert, delete, update and download geodata.
+
+## Who owns OpenStreetMap?
+OpenStreetMap is governed by the [OpenStreetMap Foundation](https://wiki.osmfoundation.org/wiki/Main_Page) and everyone can become a member and can be voted on to the board. The OpenStreetMap Foundation is registered in the United Kingdom as an international not-for-profit organization.
 
 
 You are now ready to go on a field day. Make sure you are [prepared](../preparation_fieldday.md). 
