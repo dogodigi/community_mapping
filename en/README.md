@@ -8,10 +8,9 @@ People can get involved into community mapping without prerequisits. The only te
 Part of this book is targeted at web developers. When developer skills (basic knowledge of html, css and javascript) are required, this is clearly stated at the start of the chapter as: "__advanced__ skills required".
 
 ## Acknowledgements
-This book was commissioned by the [Caribbean Open Institute]((http://caribbeanopeninstitute.org/) in conjunction with [Mona school of Business and Management](http://www.mona.uwi.edu/msbm/) and serves the research project _Harnessing Open Data to Achieve Development Results in the Caribbean_.
+This book is commissioned by the [Caribbean Open Institute]((http://caribbeanopeninstitute.org/) in conjunction with [Mona school of Business and Management](http://www.mona.uwi.edu/msbm/) and serves the research project _Harnessing Open Data to Achieve Development Results in the Caribbean_.
 
 __Milo van der Linden__ would like to thank the OpenStreetMap community, the Wikipedia community for the wonderful online information sources they provide to learn everything that is required for community mapping. He would also like to thank Ace Suares for inviting him to Curaçao to do the first community mapping project, Professor [Sameer Verma](http://verma.sfsu.edu/profile/index.html) for bringing him in touch with Jamaica and Maurice McNaughton for inviting him over.
-
 
 ## Goals
  1. production of media-rich community map artifacts, through the effective engagement, capacity-building & empowerment of local community participants
