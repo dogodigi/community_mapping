@@ -77,6 +77,11 @@ We all can. Even if we want to make money with it. And it comes at no initial co
 > ##### exercise 18
 > Visit the OpenStreetMap website. Do you like the map? Can you discover how to join? Can you find where you can read documentation about how to use OpenStreetMap?
 
+
+## Can you make money with geodata?
+
+The short answer, yes. A company called [Oxera](http://www.oxera.com/Latest-Thinking/Publications/Reports/2013/What-is-the-economic-impact-of-Geo-services.aspx) wrote a nice report and created a beautiful [infographic](http://www.oxera.com/Oxera/media/Oxera/images/Oxera-Geo-Services.jpg) that explains the value of geodata.
+
 ## Follow-up
 You are now ready to go on a field day. Make sure you are [prepared](prepare_fieldday.md). 
 
