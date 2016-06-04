@@ -2,11 +2,11 @@
 
 # Set up the development environment: Atom
 
-# Create a Instagram Developer Token
+# Create a flickr Developer Token
 
 # Create your first leaflet map page
 
-# Add Instagram
+# Add flickr
 
 - [Blog](http://blog.thematicmapping.org/2014/06/showing-instagram-photos-and-videos-on.html)
 - [Leaflet.Instagram](https://github.com/turban/Leaflet.Instagram)
