@@ -129,7 +129,8 @@ One of the oldest maps we know was created in the time of the [Babylonians](http
 
 In early history, the world was unknown to the mapmakers. The maps only described the _"known world"_.
 
-![](https://upload.wikimedia.org/wikipedia/commons/a/a0/Anaximander_world_map-en.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Anaximander_world_map-en.svg/200px-Anaximander_world_map-en.svg.png)
+
 The world was seen as flat. Most of us now know that is not. Years of study has made people model the earth into a sphere. But again, that is a model. And different purposes require different models.
 
 ### Geodetic System
