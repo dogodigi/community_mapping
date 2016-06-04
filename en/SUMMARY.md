@@ -11,6 +11,6 @@
    * [Schedule](day3.md)
 * [Creating Map applications](creating_map_applications.md)
    * [Schedule](day4.md)
-* Mini-hackaton
+* [Mini-hackaton](chapters/mini-hackaton.md)
    * [Schedule](day5.md)
 
