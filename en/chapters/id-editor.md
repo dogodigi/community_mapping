@@ -38,9 +38,13 @@ On the **Edit Feature (1)** panel, you can show, edit or enter details about the
 
 ### Configuring the Background Layer
 
-Click the **Background settings** button or use the *shortcut key* **b**.![image14][]{: height="24px"}  
+Click the **Background settings** button or use the *shortcut key* **b**.![image14][]
+The dialog where you can set the map will show up.
+
 ![image15][]  
-To change the **brightness level** click one of these boxes, the levels are 100%, 75%, 50%, and 25% ![image16][]{: height="24px"}  
+
+To change the **brightness level** click one of these boxes, the levels are 100%, 75%, 50%, and 25% ![image16][]
+
 You also can **change the background layer** based on your desired tile provider (the default is Bing Aerial Imagery).  
 
 You can add your own map tiles by clicking on **Custom**. For example, if you want to **add a Field Paper** [^fieldpaper], click **Custom** then click on the magnifying glass (search) icon to open the following window:-  
@@ -53,40 +57,39 @@ If there is [imagery offset](/en/josm/aerial-imagery), you can **correct the ima
 
 - Click the navigation buttons to move the imagery. Click the reset button to return to the default position. ![image20][]  
 
-Basic Editing with iD  
-----------------------  
+## Basic Editing with iD  
 
 ### Adding Points  
 
-To add a new point, click on the **Point** button. ![image3][]{: height="24px"}  
+To add a new point, click on the **Point** button. ![image3][]
 
 - Your mouse cursor will change into plus (+) sign. Now, click on a position that you know to mark a location. For example, if you know that there is a hospital in your area, click on the position of the hospital building.  
 ![image21][]  
 - Notice that a new point is added. At the same time, the left panel will change to show a form where you can select attributes for the object. Click **Hospital Grounds** to tag the point as a hospital.  
 ![image22][]  
 - You can use the forms to fill detail information about your point. You can fill hospital name, address, and/or other additional information. Note that each feature will have different options, depending on what tag you choose from the feature panel.  
-- If you make a mistake, such as a wrong location, you can move your point to a new location by holding the left mouse button on your point and dragging it. Or, if you want to delete your point, click the left mouse button on the point and then click the button which looks like a trashcan. ![image23][]{: height="24px"}  
+- If you make a mistake, such as a wrong location, you can move your point to a new location by holding the left mouse button on your point and dragging it. Or, if you want to delete your point, click the left mouse button on the point and then click the button which looks like a trashcan. ![image23][] 
 A "point" created in the iD editor is actually a standalone "node" with a set of "tags" on it.  
 
 ### Drawing Lines  
 
-To add a new line, click on the **Line** button. ![image4][]{: height="24px"}  
+To add a new line, click on the **Line** button. ![image4][]
 
 - Your mouse cursor will change into plus (+) sign. Find a road that hasn’t been drawn on the map and trace it. Click once on a point where the road segment begins, move your mouse, and click to add additional points. Double-click to end the drawing process. Notice the panel on the left.  
 ![image24][]  
 - Just as with a point, select the appropriate tags for your line.  
 - You can drag points from the line by clicking your left mouse button on a point and dragging it.  
-- You also can move the whole line by selecting it, and choosing the **Move tool**. Then drag the line to a new position. ![image30][]{: height="24px"}  
-- When you click your left mouse button on an individual point (node) on the line, you will see these tools:  
-- Delete point from line. ![image23][]{: height="24px"}  
-- Disconnect point from line. ![image26][]{: height="24px"}  
-- Split a line into two lines from the point you’ve selected. ![image27][]{: height="24px"}  
-- When you click your left mouse button on a line (but not on a point), you will see these tools:  
--   Delete line. ![image23][]{: height="24px"}  
--   Create a circle from a line (only active if the line is closed) ![image29][]{: height="24px"}  
--   Move line ![image30][]{: height="24px"}  
--   Form a square shape from a line (only active if the line is closed) ![image31][]{: height="24px"}  
--   Reverse line direction (good for rivers & one-way streets) ![image32][]{: height="24px"}  
+- You also can move the whole line by selecting it, and choosing the **Move tool**. Then drag the line to a new position. ![image30][]
+When you click your left mouse button on an individual point (node) on the line, you will see these tools:  
+  - Delete point from line. ![image23][]
+  - Disconnect point from line. ![image26][]
+  - Split a line into two lines from the point you’ve selected. ![image27][]
+  - When you click your left mouse button on a line (but not on a point), you will see these tools:  
+-   Delete line. ![image23][]
+-   Create a circle from a line (only active if the line is closed) ![image29][] 
+-   Move line ![image30][] 
+-   Form a square shape from a line (only active if the line is closed) ![image31][] 
+-   Reverse line direction (good for rivers & one-way streets) ![image32][] 
 
 A "line" created in the iD editor is actually a "way" with "tags" on it.
 
@@ -94,7 +97,7 @@ A "line" created in the iD editor is actually a "way" with "tags" on it.
 
 ### Drawing Shapes (Polygons)
 
-To add a new multi-sided shape, click on the **Area** button. ![image34][]{: height="24px"}  
+To add a new multi-sided shape, click on the **Area** button. ![image34][] 
 
 - Your mouse cursor will change into plus (+) sign. Try to trace a building using the imagery as a guide.  
 - You will notice that the color of your shape will change depending on the attributes that you assign to it.  
@@ -118,15 +121,15 @@ Additional Information and Custom Tags
 
 When you are editing an object, you will see a strip of icons at the bottom of the attribute panel. You can add additional information by clicking these icons:
 
-- Add elevation ![image37][]{: height="24px"}  
-- Add notes ![image38][]{: height="24px"}  
-- Add contacts / phone number ![image39][]{: height="24px"}  
-- Add source tag ![image40][]{: height="24px"}  
-- Add website ![image41][]{: height="24px"}  
-- Add accessibility information ![image42][]{: height="24px"}  
-- Add Wikipedia link ![image43][]{: height="24px"}  
+- Add elevation ![image37][] 
+- Add notes ![image38][] 
+- Add contacts / phone number ![image39][] 
+- Add source tag ![image40][] 
+- Add website ![image41][] 
+- Add accessibility information ![image42][] 
+- Add Wikipedia link ![image43][] 
 
-Or, you can add custom tags by clicking **All tags**. ![image44][]{: height="24px"}  
+Or, you can add custom tags by clicking **All tags**. ![image44][] 
 
 - This will show all the tags attached to the feature.  
 ![image45][]  
@@ -150,6 +153,8 @@ iD versus JOSM
 - When you are using a specific tagging scheme (or custom presets)
 
 [^fieldpaper]: There is a [section of LearnOSM](/en/mobile-mapping/field-papers/) giving more information about Field Papers.
+
+
 [image1]: http://www.learnosm.org/images/beginner/id-editor_image1.png 
 [image2]: http://www.learnosm.org/images/beginner/id-editor_image2.png
 [image3]: http://www.learnosm.org/images/beginner/id-editor_image3.png
