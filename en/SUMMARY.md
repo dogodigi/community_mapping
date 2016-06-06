@@ -11,7 +11,7 @@
 * [Upload GPX tracks](chapters/upload_gpx_tracks.md)
 * [Editting in OpenStreetMap](chapters/id-editor.md)
 * [View the result](chapters/view_the_result.md)
-* Querying OpenStreetMap
+* [Querying OpenStreetMap](chapters/querying_openstreetmap.md)
 * [Creating Map applications](creating_map_applications.md)
    * [Schedule](day4.md)
 * [Mini-hackaton](chapters/mini-hackaton.md)
