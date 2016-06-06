@@ -1,10 +1,10 @@
 # The basics of geodata
 
 ## Objective
-Attendees will learn to **think in models**. They gather insight on what spatial data is, how it is collected and how it relates to regular data. After this day, they will have good insight on how to model real-world objects as data.
+students will learn to **think in models**. They gather insight on what spatial data is, how it is collected and how it relates to regular data. After this day, they will have good insight on how to model real-world objects as data.
 
 ## Materials and equipment
-For attendees: None. For the teacher: The slides in the geodata section.
+For students: None. For the teacher: The slides in the geodata section.
 
 ----
 
@@ -194,7 +194,7 @@ We now have the knowledge required to start mapping.
  - Connect lines, add width, color, text and texture to create a map.
 
 > ##### Exercise 12
-Below you find an image of random coordinates. Print the image and let the attendees draw a map. Let the attendees show the map and discuss it.
+Below you find an image of random coordinates. Print the image and let the students draw a map. Let the students show the map and discuss it.
 
 ![](http://i.stack.imgur.com/2FdrL.png)
 

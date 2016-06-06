@@ -17,5 +17,5 @@
 
 # General discussion
 
-Attendees get to present their ideas for day 5
+students get to present their ideas for day 5
 

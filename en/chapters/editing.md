@@ -17,4 +17,4 @@ Process the fieldwork and upload geodata to OpenStreetMap and video and images t
 - Map some more from aerial imagery
 
 - View the combined result on OpenStreetMap
-- (For attendees with an android telephone:) Download newly created data to osmAND. Search your data. Navigate!
+- (For students with an android telephone:) Download newly created data to osmAND. Search your data. Navigate!
