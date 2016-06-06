@@ -10,8 +10,13 @@
 * [Using your smart phone](chapters/usingsmartphone.md)
 * [Using fieldpapers](chapters/using_fieldpapers.md)
 
-## Adding to OpenStreetMap
-* [process your fieldwork](chapters/id-editor.md)
+## Contributing to OpenStreetMap
+- Upload media
+- Upload fieldpaper
+- Upload GPX tracks
+* [Editting in OpenStreetMap](chapters/id-editor.md)
+* View the result
+* Querying OpenStreetMap
 
 ## Webmapping basics _(Advanced)_
 * [Creating Map applications](creating_map_applications.md)
