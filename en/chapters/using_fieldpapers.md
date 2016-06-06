@@ -21,5 +21,5 @@ It is best to take a clipboard with you when using fieldpapers, the hard undergr
 
 ![](http://www.dogodigi.net/assets/images/content/portfolio10.jpg)
 
-
+_(Kids on Curacao using fieldpapers)_
 
