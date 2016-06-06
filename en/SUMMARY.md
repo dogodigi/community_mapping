@@ -1,4 +1,4 @@
-# Index
+# Summary
 
 * [Introduction](README.md)
 * [The basics of geodata](chapters/geodata_basics.md)
@@ -6,7 +6,7 @@
 * [Preparing a field day](chapters/prepare_fieldday.md)
 * [Using your smart phone](chapters/usingsmartphone.md)
 * [Using fieldpapers](chapters/using_fieldpapers.md)
-* [Upload media](chapter/upload_media.md)
+* [Upload media](chapter/uploadmedia_md.md)
 * [Upload fieldpaper](chapters/upload_fieldpaper.md)
 * [Upload GPX tracks](chapters/upload_gpx_tracks.md)
 * [Editting in OpenStreetMap](chapters/id-editor.md)
