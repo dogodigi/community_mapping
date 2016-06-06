@@ -1,6 +1,15 @@
 # Upload fieldpaper
 
+## Objective
 
+Students will learn how to upload their fieldpaper.
+
+## Materials and equipment
+
+- A computer with internet access.
+- A (smartphone) camera or a scanner
+
+----
 
 You may have noticed the QR code in the corner of the map.
 
