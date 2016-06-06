@@ -2,7 +2,7 @@
 
 ## Objective
 
-After the field day attendees will know everything they need to prepare before they go outside and map.
+After the preparation, students know what they need to prepare and take with them on a field day.
 
 ## Materials and equipment
 
