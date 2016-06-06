@@ -12,7 +12,6 @@ Students will learn how to use their smartphones for mapping.
 ----
 
 
-
 Your smartphone is a powerful computer! It can help you when you are on a field day in a couple of ways.
 - You can log your walk in GPS track(s)
 - - You can take location aware pictures
@@ -35,8 +34,17 @@ For iOS, most GPS loggers are paid or require you to make in-application purchas
 For the Windows Phone, there is a list of possible applications on the OpenStreetMap [wiki](http://wiki.openstreetmap.org/wiki/Windows_Phone#Track_making_features).
 
 
+>
+
 ## Location aware pictures
 
+Probably all students know how to take picture with their smartphones. But did you know that you can add location information to a picture? You simply need to allow your smartphone to use the position from the GPS when taking pictures.
+
+### Android
+
+### iOS
+
+### Windows Phone
 
 
 
