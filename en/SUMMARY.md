@@ -7,7 +7,7 @@
 * Eyes on the road
 * Using your smart phone
 * [Using fieldpapers](chapters/using_fieldpapers.md)
-* Processing
+* [process your fieldwork](/chapters/id-editor.md)
    * [Schedule](day3.md)
 * [Creating Map applications](creating_map_applications.md)
    * [Schedule](day4.md)
