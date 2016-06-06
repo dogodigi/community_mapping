@@ -10,7 +10,7 @@
 * [Upload fieldpaper](chapters/upload_fieldpaper.md)
 * [Upload GPX tracks](chapters/upload_gpx_tracks.md)
 * [Editting in OpenStreetMap](chapters/id-editor.md)
-* View the result
+* [View the result](chapters/view_the_result.md)
 * Querying OpenStreetMap
 * [Creating Map applications](creating_map_applications.md)
    * [Schedule](day4.md)
