@@ -21,4 +21,5 @@ There are two ways to upload your sketches:
 - Take a picture with your camera
 - Scan the fieldpaper with a professional scanner
 
-Once you have created a PNG, JPG, TIF or GIF (PDFs won't work) from your sketch, you can go to the upload page on the fieldpapers website and upload the scan or picture. When the upload is finished, look for __snapshots__ on the fieldpapers website. When the processing of the upload is finished, you should find your sketch. You can see that your sketch can either be downloaded as GeoTIFF or editted in one of the available OpenStreetMap editors. But we will cover this topic later.
+Once you have created a PNG, JPG, TIF or GIF (PDFs won't work) from your sketch, you can go to the upload page on the fieldpapers website and upload the scan or picture. When the upload is finished, look for __snapshots__ on the fieldpapers website. When the processing of the upload is finished, you should find your sketch. You can see that your sketch can either be downloaded as GeoTIFF or editted in one of the available OpenStreetMap editors.
+
