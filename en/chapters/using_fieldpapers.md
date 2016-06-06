@@ -1,6 +1,8 @@
 # Using fieldpapers
 source: [learnosm.org](http://learnosm.org/en/mobile-mapping/field-papers/)
 
+The students can also watch an instruction video on [youtube](https://www.youtube.com/watch?v=A_HGkBXZ69g)
+
 Fieldpapers can be used to sketch the situation outside on a piece of paper and later use them to create objects in OpenStreetMap. Fieldpapers allows you to print a map of an area, draw on it and add notes, and load the paper back into your editor.
 
 There is an 8-minute [video tutorial](http://www.youtube.com/watch?v=A_HGkBXZ69g&feature=youtu.be) on Fieldpapers. The [Fieldpapers](http://fieldpapers.org) website has clear instructions on the process.
