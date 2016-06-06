@@ -1,4 +1,4 @@
-# Summary
+# Index
 
 * [Introduction](README.md)
 * [The basics of geodata](chapters/geodata_basics.md)
