@@ -17,9 +17,9 @@ Simply print the atlas once you are satisfied and distribute the prints amongst 
 
 ![](http://learnosm.org/images/mobile-mapping/field-papers_fieldp.png)
 
+It is best to take a clipboard with you when using fieldpapers, the hard underground will make it much easier to sketch. It is also good to work in groups and help each other notice the relevant features outside. Mapping with fieldpaper is fun and a truly social activity!
 
-
-
+![](http://www.dogodigi.net/assets/images/content/portfolio10.jpg)
 
 
 
