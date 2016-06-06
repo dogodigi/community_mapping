@@ -1,10 +1,10 @@
 # OpenStreetMap
 
 ## Objective
-Attendees will learn about computer systems for geodata and OpenStreetMap in particular. After this lecture they will know what OpenStreetMap is and the possibilities it offers.
+Students will learn about computer systems for geodata and OpenStreetMap in particular. After this lecture they will know what OpenStreetMap is and the possibilities it offers.
 
 ## Materials
-For attendees: A computer, tablet or smartphone with internet. For the teacher: The slides in the geodata section.
+For students: A computer, tablet or smartphone with internet. For the teacher: The slides in the geodata section.
 
 ----
 
