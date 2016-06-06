@@ -13,7 +13,5 @@
 * [View the result](chapters/view_the_result.md)
 * [Querying OpenStreetMap](chapters/querying_openstreetmap.md)
 * [Creating Map applications](creating_map_applications.md)
-   * [Schedule](day4.md)
 * [Mini-hackaton](chapters/mini-hackaton.md)
-   * [Schedule](day5.md)
 
