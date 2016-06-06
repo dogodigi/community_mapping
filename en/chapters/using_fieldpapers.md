@@ -1,4 +1,16 @@
 # Using fieldpapers
+
+## Objective
+
+Students will learn how to create an atlas and print fieldpapers to take with them on the field day. The printing can also be handled by the teacher.
+
+## Materials and equipment
+
+- Computer with internet access.
+- Printer
+
+----
+
 source: [learnosm.org](http://learnosm.org/en/mobile-mapping/field-papers/)
 
 The students can also watch an instruction video on [youtube](https://www.youtube.com/watch?v=A_HGkBXZ69g)
