@@ -1,5 +1,18 @@
 # Using your smart phone
 
+## Objective
+
+Students will learn how to use their smartphones for mapping.
+
+## Materials and equipment
+
+- Smartphone.
+- The possibility to install applications either via f-droid, google play, iTunes or the windows phone repository.
+
+----
+
+
+
 Your smartphone is a powerful computer! It can help you when you are on a field day in a couple of ways.
 - You can log your walk in GPS track(s)
 - - You can take location aware pictures
