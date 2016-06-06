@@ -7,8 +7,8 @@
 * [Preparing a field day](chapters/prepare_fieldday.md)
 
 ## Outside
-* What are you looking for?
-* Using your smartphone
+* Eyes on the road
+* Using your smart phone
 * Using fieldpapers
 
 ## Digitize
