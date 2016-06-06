@@ -6,7 +6,7 @@
 * [Preparing a field day](chapters/prepare_fieldday.md)
 * [Using your smart phone](chapters/usingsmartphone.md)
 * [Using fieldpapers](chapters/using_fieldpapers.md)
-* Upload media
+* [Upload media](chapter/upload_media.md)
 * [Upload fieldpaper](chapters/upload_fieldpaper.md)
 * Upload GPX tracks
 * [Editting in OpenStreetMap](chapters/id-editor.md)
