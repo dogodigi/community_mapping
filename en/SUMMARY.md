@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Why?](chapters/whymd.md)
+* [Opportunities in tourism](chapters/tourism)
 * [Acknowledgments](chapters/acknowledgementsmd.md)
 * [Goals](chapters/goals.md)
 * [The basics of geodata](chapters/geodata_basics.md)
