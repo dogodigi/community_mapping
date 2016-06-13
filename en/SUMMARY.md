@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Why?](chapters/whymd.md)
+* [Acknowledgments](chapters/acknowledgements.md)
 * [Prerequisits](chapters/prerequisits.md)
 * [The basics of geodata](chapters/geodata_basics.md)
 * [OpenStreetMap](chapters/openstreetmap.md)
