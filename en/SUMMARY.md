@@ -1,15 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
-* [Why?](chapters/why.md)
+* [Why?](chapters/whymd.md)
 * [Prerequisits](chapters/prerequisits.md)
 * [The basics of geodata](chapters/geodata_basics.md)
 * [OpenStreetMap](chapters/openstreetmap.md)
 * [Preparing a field day](chapters/prepare_fieldday.md)
 * [Using your smart phone](chapters/usingsmartphone.md)
 * [Using fieldpapers](chapters/using_fieldpapers.md)
-
-
 * [Upload media](chapters/uploadmedia_md.md)
 * [Upload fieldpaper](chapters/upload_fieldpaper.md)
 * [Upload GPX tracks](chapters/upload_gpx_tracks.md)
@@ -18,6 +16,4 @@
 * [Querying OpenStreetMap](chapters/querying_openstreetmap.md)
 * [Creating Map applications](chapters/creating_map_applications.md)
 * [Mini-hackaton](chapters/mini-hackaton.md)
-
-
 
