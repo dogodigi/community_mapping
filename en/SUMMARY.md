@@ -2,11 +2,10 @@
 
 * [Introduction](README.md)
 * [Why?](chapters/whymd.md)
-* [Opportunities in tourism](chapters/tourism)
+* [Opportunities in tourism](chapters/tourism.md)
 * [Acknowledgments](chapters/acknowledgementsmd.md)
 * [Goals](chapters/goals.md)
 * [The basics of geodata](chapters/geodata_basics.md)
-
 * [OpenStreetMap](chapters/openstreetmap.md)
 * [Preparing a field day](chapters/prepare_fieldday.md)
 * [Using your smart phone](chapters/usingsmartphone.md)
