@@ -4,7 +4,6 @@
 * [Why?](chapters/whymd.md)
 * [Acknowledgments](chapters/acknowledgementsmd.md)
 * [Goals](chapters/goals.md)
-* [Prerequisits](chapters/prerequisitsmd.md)
 * [The basics of geodata](chapters/geodata_basics.md)
 * [OpenStreetMap](chapters/openstreetmap.md)
 * [Preparing a field day](chapters/prepare_fieldday.md)
