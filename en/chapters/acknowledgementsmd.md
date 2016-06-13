@@ -1,2 +1,3 @@
 # Acknowledgments
 
+We would like to thank the OpenStreetMap community and the Wikipedia community for the wonderful online information sources they provide to learn everything that is required for community mapping. He would also like to thank Ace Suares for inviting him to Curaçao to do the first community mapping project, Professor [Sameer Verma](http://verma.sfsu.edu/profile/index.html) for bringing him in touch with Jamaica and Maurice McNaughton for sparking this project.
