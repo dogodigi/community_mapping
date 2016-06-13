@@ -1,7 +1,7 @@
 # About this book
 
 ## Preface
-The book can be used as teaching material, preferably for a 5 day program to engage people into community mapping and discover the economic potential of community mapping.
+The book serves as teaching material, preferably for a 5 day program to engage people into community mapping and discover the economic potential of community mapping.
 
 People can get involved into community mapping without prerequisits. The only technical skills needed are the basic ability to operate a computer or mobile device. 
 
