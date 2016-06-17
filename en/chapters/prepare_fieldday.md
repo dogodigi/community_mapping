@@ -13,7 +13,7 @@ To be prepared to go outside and phyiscally map the community.
 
 ----
 
-Select an area to map. Ask the students if they have a preference. Use [openstreetmap](http://www.openstreetmap.org) to check if the area contains enough blindspots to map. Or if they don't, discuss why the area could still be interesting. Try to keep the area smaller then a square mile. When consensus is reached, select gathering points. Make sure you set a start and end time. Create room for pauses and discussion. Make sure the students bring enough to drink and eat. You can even organize a lunch.
+Select an area to map. Use [openstreetmap](http://www.openstreetmap.org) to check if the area contains enough blindspots to map. Or if they don't, discuss why the area could still be interesting. Try to keep the area smaller then a square mile. When consensus is reached, select gathering points. Make sure you set a start and end time. Create room for pauses and discussion. Make sure the students bring enough to drink and eat. You can even organize a lunch.
 
 ### Smartphone
 
