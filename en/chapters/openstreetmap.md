@@ -4,7 +4,7 @@
 Learn about computer systems for geodata and OpenStreetMap in particular and know what OpenStreetMap is and the possibilities it offers.
 
 ## Materials
-For students: A computer, tablet or smartphone with internet. For the teacher: The slides in the geodata section.
+A computer, tablet or smartphone with internet.
 
 ----
 
