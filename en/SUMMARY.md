@@ -13,7 +13,6 @@
 * [Upload media](chapters/uploadmedia_md.md)
 * [Upload fieldpaper](chapters/upload_fieldpaper.md)
 * [Editting in OpenStreetMap](chapters/id-editor.md)
-* [View the result](chapters/view_the_result.md)
 * [Querying OpenStreetMap](chapters/querying_openstreetmap.md)
 * [Creating Map applications](chapters/creating_map_applications.md)
 * [Mini-hackaton](chapters/mini-hackaton.md)
