@@ -13,5 +13,5 @@
 * [Upload media](chapters/uploadmedia_md.md)
 * [Upload fieldpaper](chapters/upload_fieldpaper.md)
 * [Editting in OpenStreetMap](chapters/id-editor.md)
-* References
+* [References](chapters/references.md)
 
