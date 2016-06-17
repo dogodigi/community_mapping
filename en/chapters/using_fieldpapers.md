@@ -2,7 +2,7 @@
 
 ## Objective
 
-Students will learn how to create an atlas and print fieldpapers to take with them on the field day. The printing can also be handled by the teacher.
+Learn how to create an atlas and print fieldpapers to take with you on the field day. The printing can also be handled centrally.
 
 ## Materials and equipment
 
