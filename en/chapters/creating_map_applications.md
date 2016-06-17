@@ -1,6 +1,6 @@
 * Learn to create a web application with a map and media (video and images)
 
-# Creating Map applications
+# Create a Map application
 
 # Set up the development environment: Atom
 
