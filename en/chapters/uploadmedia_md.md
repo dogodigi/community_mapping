@@ -19,4 +19,6 @@ You should sign up to flickr and upload the images created on the field day. Som
 
 When the images are geolocated, you can use the Flickr __Map__ page to check if everything is in place. These images can then later be used by the developers who can integrate them in the Interactive Community Mapping Application.
 
+Instructions on how to geolocate images can be found at https://www.youtube.com/watch?v=3Y9v9TI7HAI
+
 ![](Screenshot from 2016-06-17 14-51-48.png)
