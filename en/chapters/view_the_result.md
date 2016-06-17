@@ -2,11 +2,11 @@
 
 ## Objective
 
-Students will know how their edits end up in OpenStreetMap and how to access their own data.
+Collaborate how edits end up in OpenStreetMap and how to access the data.
 
 ## Materials and equipment
 
-- Students should all have a smartphone or tablet. 
+- smartphone or tablet. 
 - Internet access
 
 ----
