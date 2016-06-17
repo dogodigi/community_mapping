@@ -1,5 +1,6 @@
 # References
 
+## Interactive Community Mapping
 A lot of material is available online that can help community mapping. We will summarize a few:
 
 http://wiki.openstreetmap.org - All the information you need to work with OpenStreetMap, from beginner to expert. It is a simple wiki that can be searched. Not sure about how to map a certain type of object? You will find answers here.
@@ -13,3 +14,17 @@ http://www.openstreetmap.org - Main website. Go here to use the OpenStreetMap Ed
 http://flickr.com - Our choice for storing images and videos. Offers the possibility to place pictures and video at the locations they where taken.
 
 http://icm.msbm-uwi.org - The website for the Interactive Community Mapping Project for August Town, Jamaica. You can find information about the project, the participants and connect with the participants via social media here.
+
+## Off topic
+
+Dave Hakkens from Eindhoven has a nice video that explains the way modern travelers want to engage with the world. He explains how European travelers can learn from Locals
+- https://www.youtube.com/watch?v=4yLcywTtiiE
+
+Want to invite a traveler to your house? Check out http://airbnb.com or http://www.couchsurfing.com you can tell the world that you can offer them a place to sleep and more!
+
+Do you want to create a business from recycling plastic? http://preciousplastic.com has blueprints, bills of materials and instruction video's that can help you do that!
+
+Are you frustrated with second hand computers that break after a couple of weeks? Maybe you should look for an alternative. The Raspberry PI is a mini computer that you can connect to a monitor, keyboard and mouse and comes at low cost. Imagine yourself doing everything you want with a computer at a total cost of less then US$100! https://www.raspberrypi.org/
+
+
+
