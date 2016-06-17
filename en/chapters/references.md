@@ -26,5 +26,11 @@ Do you want to create a business from recycling plastic? http://preciousplastic.
 
 Are you frustrated with second hand computers that break after a couple of weeks? Maybe you should look for an alternative. The Raspberry PI is a mini computer that you can connect to a monitor, keyboard and mouse and comes at low cost. Imagine yourself doing everything you want with a computer at a total cost of less then US$100! https://www.raspberrypi.org/
 
+## You are the change!
+
+Life may be frustrating from time to time. But it is flexibility, love and endurance that keeps us going. Remember, the sun will shine tomorrow. Don't take no for an answer. Your everyday life may sound ordinary, but it is special to others. Tell your stories. Take travelers out to see those beautiful sites you used to camp as a kid. Teach them about local fruits. Tell them about history. You will make friends for life. Be kind, be open, be honest. Every story is worth telling. You are not insignificant. You are the future. Be the change and keep looking for perspective and opportunities.
+
+
+
 
 
