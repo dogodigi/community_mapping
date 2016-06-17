@@ -2,13 +2,13 @@
 
 ## Objective
 
-After the preparation, students know what they need to prepare and take with them on a field day.
+To be prepared to go outside and phyiscally map the community.
 
 ## Materials and equipment
 
-- students should all have a smartphone. 
+- Everybody should have a smartphone. 
 - A printer that can be used from a computer with internet access is required to generate paper maps for the field day.
-- Clipboards, preferably one per 2 students for the field day.
+- Clipboards, preferably one per 2  for the field day.
 - Pen or pencil.
 
 ----
