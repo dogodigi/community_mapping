@@ -2,7 +2,7 @@
 
 ## Objective
 
-Learn how to use their smartphones for mapping.
+Learn how to use smartphones for mapping.
 
 ## Materials and equipment
 
