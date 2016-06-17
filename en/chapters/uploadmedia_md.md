@@ -2,7 +2,7 @@
 
 ## Objective
 
-Learn how to upload their media and check if location information is used by the selected media website or application.
+Learn how to upload media and check if location information is used by the selected media website or application.
 
 ## Materials and equipment
 
