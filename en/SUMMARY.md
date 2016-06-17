@@ -15,5 +15,4 @@
 * [Editting in OpenStreetMap](chapters/id-editor.md)
 * [Querying OpenStreetMap](chapters/querying_openstreetmap.md)
 * [Creating Map applications](chapters/creating_map_applications.md)
-* [Mini-hackaton](chapters/mini-hackaton.md)
 
