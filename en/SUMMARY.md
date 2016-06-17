@@ -13,5 +13,4 @@
 * [Upload media](chapters/uploadmedia_md.md)
 * [Upload fieldpaper](chapters/upload_fieldpaper.md)
 * [Editting in OpenStreetMap](chapters/id-editor.md)
-* [Creating Map applications](chapters/creating_map_applications.md)
 
