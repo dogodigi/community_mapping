@@ -12,7 +12,6 @@
 * [Using fieldpapers](chapters/using_fieldpapers.md)
 * [Upload media](chapters/uploadmedia_md.md)
 * [Upload fieldpaper](chapters/upload_fieldpaper.md)
-* [Upload GPX tracks](chapters/upload_gpx_tracks.md)
 * [Editting in OpenStreetMap](chapters/id-editor.md)
 * [View the result](chapters/view_the_result.md)
 * [Querying OpenStreetMap](chapters/querying_openstreetmap.md)
