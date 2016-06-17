@@ -2,12 +2,13 @@
 
 Commissioned by the [Caribbean Open Institute]((http://caribbeanopeninstitute.org/) in conjunction with [Mona school of Business and Management](http://www.mona.uwi.edu/msbm/) serving the research project _Harnessing Open Data to Achieve Development Results in the Caribbean;
 
-This course will engage people into community mapping and allows them to discover the economic potential of community mapping.
+The book outlines the process of setting up an interactive mapping community. A way to engage people into community mapping.
 
-People can get involved into community mapping without prerequisits. The only technical skills needed are the basic ability to operate a computer or mobile device. 
+Community mapping can form the base of for the discovery of economic potential.
 
-Part of the course is targeted at web developers. When developer skills (basic knowledge of html, css and javascript) are required, this is clearly stated at the start of the chapter as: "__advanced__ skills required".
+Community mapping hardly has any requirements. All it takes is a smartphone and paper. Participants need to be able to operate a computer or mobile device. 
 
+This book also references code samples that create a framework for a web mapping application that can be used to showcase your local community to the rest of the world.
 
 ## License
 
