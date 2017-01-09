@@ -14,4 +14,5 @@
 * [Upload fieldpaper](chapters/upload_fieldpaper.md)
 * [Editting in OpenStreetMap](chapters/id-editor.md)
 * [References](chapters/references.md)
+* Addendum
 
